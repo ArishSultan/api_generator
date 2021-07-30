@@ -1,4 +1,4 @@
-name: api_spec_generator
+name: api_generator
 description: A starting point for Dart libraries or applications.
 version: 1.0.0
 publish_to: none
