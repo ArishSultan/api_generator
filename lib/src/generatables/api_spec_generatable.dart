@@ -1,5 +1,5 @@
 import 'package:api_spec/api_spec.dart';
-import 'package:api_spec_generator/src/generatables/path_generatable.dart';
+import 'package:api_generator/src/generatables/path_generatable.dart';
 
 class GeneratableApiSpecification {
   final List<GeneratablePath> paths;

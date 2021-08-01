@@ -1,5 +1,5 @@
 import 'package:api_spec/api_spec.dart';
-import 'package:api_spec_generator/src/utils/element_name.dart';
+import 'package:api_generator/src/utils/element_name.dart';
 
 class GeneratableOperation {
   final String method;

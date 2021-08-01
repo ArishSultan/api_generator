@@ -1,5 +1,5 @@
 import 'package:api_spec/api_spec.dart';
-import 'package:api_spec_generator/src/utils/ref.dart';
+import 'package:api_generator/src/utils/ref.dart';
 
 class ParameterGenerator {
   final String name;
